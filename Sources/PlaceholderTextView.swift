@@ -1,6 +1,6 @@
 //
 //  PlaceholderTextView.swift
-//  Git Tutorial
+//  PlaceholderTextView
 //
 //  Created by angelen on 2018/5/23.
 //  Copyright © 2018 angelen. All rights reserved.
